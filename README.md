@@ -1,12 +1,12 @@
 # Predicting Default Credit Card Clients
 
+## Project Description
+> Predicting default credit card clients
+> 
 ![Image Alt Text](10_images/cover.jpg)
 
 ## Model
 > Decision Tree
-
-## Project Description
-> Predicting default credit card clients
 
 ## Data Source
 > https://archive.ics.uci.edu/static/public/350/default+of+credit+card+clients.zip
@@ -50,6 +50,7 @@ If you have something to add or a new idea to implement, you are welcome to crea
 ## References
 - [Introduction to MLFlow](https://youtu.be/ksYIVDue8ak?si=WkzthJ9yQWPYZ8Nw)
 - [Setting Up MLLFlow Experiments to a Remote Server](https://youtu.be/K9se7KQON5k?si=rcnz5SCuzGG4KhX1)
+- [Kaggle Notebook](https://www.kaggle.com/code/satyamsss/credit-card-default-prediction-82-accurate)
 
 
 ## Give it a Star
