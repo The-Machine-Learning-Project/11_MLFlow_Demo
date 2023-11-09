@@ -3,14 +3,14 @@
 ## Model
 > Decision Tree
 
-## Description
+## Project Description
 > Predicting default credit card clients
 
-## Technology
+## Project Setup
 > Hyperparameter Tuning: `Manual` <br>
 > Pipeline: `NA` <br>
 > Model Tracking: `MLFlow` <br>
-> Deployment: `NO`
+> Deployment: `NA`
 
 ## Data Source
 > https://archive.ics.uci.edu/static/public/350/default+of+credit+card+clients.zip
@@ -26,6 +26,6 @@ If you have something to add or new idea to implement, you are welcome to create
 
 ## Give it a Star
 
-If you find this repo useful , give it a star so as many people can get to know it.
+If you find this repo useful, give it a star so as many people can get to know it.
 
 
