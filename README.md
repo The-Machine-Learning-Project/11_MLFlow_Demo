@@ -1,12 +1,12 @@
 # Predicting Default Credit Card Clients
 
+## Project Description
+> Predicting default credit card clients
+> 
 ![Image Alt Text](10_images/cover.jpg)
 
 ## Model
 > Decision Tree
-
-## Project Description
-> Predicting default credit card clients
 
 ## Data Source
 > https://archive.ics.uci.edu/static/public/350/default+of+credit+card+clients.zip
