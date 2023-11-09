@@ -1,2 +1,5 @@
+ipykernel
 pandas
+matplotlib
+seaborn
 mlflow
