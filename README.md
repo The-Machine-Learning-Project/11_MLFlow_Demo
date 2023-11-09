@@ -21,30 +21,30 @@ Install all requirements by running the following command
 > Deployment: `NA`
 
 ## Project Structure
-|- notebooks/
-   |- 01-first-logical-notebook.ipynb
-   |- 02-second-logical-notebook.ipynb
-   |- prototype-notebook.ipynb
-   |- archive/
-	  |- no-longer-useful.ipynb
-|- projectname/
-   |- projectname/
-	  |- __init__.py
-	  |- config.py
-	  |- data.py
-	  |- utils.py
-   |- setup.py
-|- README.md
-|- data/
-   |- raw/
-   |- processed/
-   |- cleaned/
-|- scripts/
-   |- script1.py
-   |- script2.py
-   |- archive/
-      |- no-longer-useful.py
-|- environment.yml
+- **01_src/**
+    - Source code for your project.
+- **02_data/**
+    - **01_raw/**: Raw data files.
+    - **02_processed/**: Processed data files.
+    - **03_external/**: Data from external sources.
+- **03_notebooks/**
+    - **01_data_exploration.ipynb**: Data exploration and analysis.
+    - **02_data_preprocessing.ipynb**: Data cleaning and preprocessing.
+    - **03_model_training.ipynb**: Model training.
+    - **04_hyperparameter_tuning.ipynb**: Hyperparameter optimization.
+    - **05_model_evaluation.ipynb**: Model evaluation.
+    - **06_mlflow_experiment_tracking.ipynb**: MLflow experiment tracking.
+    - **07_mlflow_model_deployment.ipynb**: Model deployment using MLflow.
+- **04_models/**
+    - Trained model files, model metadata, and evaluation results.
+- **05_reports/**
+    - Project documentation, Jupyter notebook reports, final reports, and presentations.
+- **06_config/**
+    - Configuration files for hyperparameters, data sources, logging, environment, database, and deployment.
+- **07_tests/**
+    - Unit tests or test scripts.
+- **08_environment/**
+    - **01_requirements.txt**: Environment setup file (dependencies).
 
 ## Pull Requests
 
