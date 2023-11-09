@@ -1,15 +1,13 @@
 # 02_Classification_Credit-Card-Default
 
-##MODEL
+## MODEL
 > Decision Tree | Predicting default credit card clients
 
-##DESCRIPTION
+## DESCRIPTION
 > Predicting default credit card clients
 
 ## Data Source
 > https://archive.ics.uci.edu/static/public/350/default+of+credit+card+clients.zip
-
-
 
 ## Installation
 Install all requirements by running the following command
