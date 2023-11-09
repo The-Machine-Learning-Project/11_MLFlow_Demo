@@ -20,6 +20,4 @@ If you have something to add or new idea to implement, you are welcome to create
 
 If you find this repo useful , give it a star so as many people can get to know it.
 
-## Credits
 
-All the credits to [Davis David ](https://twitter.com/Davis_McDavid)
