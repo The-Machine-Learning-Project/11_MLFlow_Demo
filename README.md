@@ -36,6 +36,7 @@ Install all requirements by running the following command
 ├── 07_config  				# Configuration files for hyperparameters, data sources, logging, environment, database, and deployment
 ├── 08_tests 				# Unit tests or test scripts
 ├── 09_environments 		        # Environment setup file (dependencies)
+├── README.md
 └── ...
 ```
 ## Pull Requests
