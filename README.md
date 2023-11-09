@@ -1,10 +1,14 @@
 # 02_Classification_Credit-Card-Default
 
-## MODEL
-> Decision Tree | Predicting default credit card clients
+## Model
+> Decision Tree
 
-## DESCRIPTION
+## Description
 > Predicting default credit card clients
+
+## Technology
+> Monitored? MLFlow
+> Deployed? NO
 
 ## Data Source
 > https://archive.ics.uci.edu/static/public/350/default+of+credit+card+clients.zip
