@@ -24,11 +24,13 @@ Install all requirements by running the following command
 ## Project Folder Structure
 ```text
 ├── ...
-├── 01_data
+├── 01_src  				# Source code
+│   ├── download_data.py
+├── 02_data
 │   ├── 01_raw  			# Raw data files
 │   ├── 02_processed 			# Processed data files
 │   └── 03_external  			# Data from external sources
-├── 02_notebooks  			# Notebooks used for pre-processing, exploration, model training, etc 
+├── 03_notebooks  			# Notebooks used for pre-processing, exploration, model training, etc 
 ├── 03_src  				# Source code
 ├── 04_models  				# Trained model files, model metadata, and evaluation results
 ├── 05_deployment  			# Project deployment files
