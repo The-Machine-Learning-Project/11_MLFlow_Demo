@@ -7,8 +7,10 @@
 > Predicting default credit card clients
 
 ## Technology
-> Monitored? MLFlow
-> Deployed? NO
+> Hyperparameter Tuning: `Manual` <br>
+> Pipeline: `NA` <br>
+> Model Tracking: `MLFlow` <br>
+> Deployment: `NO`
 
 ## Data Source
 > https://archive.ics.uci.edu/static/public/350/default+of+credit+card+clients.zip
