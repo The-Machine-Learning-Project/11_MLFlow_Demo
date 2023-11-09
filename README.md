@@ -25,6 +25,7 @@ Install all requirements by running the following command
 ```text
 ├── ...
 ├── 01_src  				# Source code
+│   ├── download_data.py
 ├── 02_data
 │   ├── 01_raw  			# Raw data files
 │   ├── 02_processed 			# Processed data files
