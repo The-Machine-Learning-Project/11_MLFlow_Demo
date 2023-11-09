@@ -42,6 +42,11 @@ Install all requirements by running the following command
 
 If you have something to add or a new idea to implement, you are welcome to create a pull request on improvement.
 
+## References
+- [Introduction to MLFlow](https://youtu.be/ksYIVDue8ak?si=WkzthJ9yQWPYZ8Nw)
+- [Setting Up MLLFlow Experiments to a Remote Server](https://youtu.be/K9se7KQON5k?si=rcnz5SCuzGG4KhX1)
+
+
 ## Give it a Star
 
 If you find this repo useful, give it a star so as many people can get to know it.
