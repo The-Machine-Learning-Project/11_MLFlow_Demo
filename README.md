@@ -1,5 +1,7 @@
 # Predicting Default Credit Card Clients
 
+![Image Alt Text](10_images/cover.jpg)
+
 ## Model
 > Decision Tree
 
