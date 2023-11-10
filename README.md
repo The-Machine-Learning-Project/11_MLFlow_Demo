@@ -10,9 +10,9 @@
 PART 1
 > ![](https://geps.dev/progress/100) Setup MLFlow Experiment for Manual Tuning <br>
 > ![](https://geps.dev/progress/100) Create Runs for Manual Tuning Experiment (captures different parameters based on user input) <br>
-> ![](https://geps.dev/progress/100) Save experiments and runs on local server <br>
+> ![](https://geps.dev/progress/100) Save Experiments and Runs on local server <br>
 ![Image Alt Text](10_images/mlflowui_manual_exp.png) <br>
-> ![](https://geps.dev/progress/0) Save experiments and runs on a remote server (DagsHub) <br>
+> ![](https://geps.dev/progress/0) Save Experiments and Runs on a remote server (DagsHub) <br>
 
 PART 2
 > ![](https://geps.dev/progress/0) Setup MLFlow Experiment for HyperParameter Tuning <br>
@@ -31,7 +31,7 @@ PART 2
 ## Installation
 Install all requirements by running the following command
 
-> pip install requirements.txt
+> pip install -r requirements.txt
 
 ## Project Configurations
 
@@ -65,6 +65,7 @@ Install all requirements by running the following command
 If you have something to add or a new idea to implement, you are welcome to create a pull request on improvement.
 
 ## References
+- [MLFlow Documentation](https://mlflow.org/docs/latest/index.html)
 - [Introduction to MLFlow](https://youtu.be/ksYIVDue8ak?si=WkzthJ9yQWPYZ8Nw)
 - [Setting Up MLFlow Experiments to a Remote Server](https://youtu.be/K9se7KQON5k?si=rcnz5SCuzGG4KhX1)
 - [Kaggle Notebook](https://www.kaggle.com/code/satyamsss/credit-card-default-prediction-82-accurate)
