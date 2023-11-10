@@ -2,7 +2,9 @@
 
 ## Project Description
 > Demonstrate how MLFlow works by using the Credit Card Default Dataset
-> 
+
+![Image Alt Text](10_images/cover.jpg)
+
 ## Project Coverage
 
 PART 1
@@ -19,9 +21,6 @@ PART 2
 >>>>>> ![](https://geps.dev/progress/0) Run 2: DecisionTreeClassifier - Different Predictors <br>
 >>>>>> ![](https://geps.dev/progress/0) Run 3: DecisionTreeClassifier - Different Numerical Transformations <br>
 >>>>>> ![](https://geps.dev/progress/0) Run ∞: Repeat Runs using other classifier models <br>
-
-
-![Image Alt Text](10_images/cover.jpg)
 
 ## Model
 > Decision Tree
