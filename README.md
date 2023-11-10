@@ -1,8 +1,26 @@
 # Predicting Default Credit Card Clients
 
 ## Project Description
-> Predicting default credit card clients
+> Demonstrate how MLFlow works by using the Credit Card Default Dataset
 > 
+## Project Coverage
+
+PART 1
+> ![](https://geps.dev/progress/100) Setup MLFlow Experiment for Manual Tuning <br>
+> ![](https://geps.dev/progress/100) Create Runs for Manual Tuning Experiment (captures different parameters based on user input) <br>
+> ![](https://geps.dev/progress/100) Save experiments and runs on local server <br>
+![Image Alt Text](10_images/mlflowui_manual_exp.png) <br>
+> ![](https://geps.dev/progress/0) Save experiments and runs on a remote server (DagsHub) <br>
+
+PART 2
+> ![](https://geps.dev/progress/0) Setup MLFlow Experiment for HyperParameter Tuning <br>
+> ![](https://geps.dev/progress/0) Create Runs for Hyperparameter Tuning Experiment <br>
+>>>>>> ![](https://geps.dev/progress/0) Run 1: DecisionTreeClassifier - Best Model <br>
+>>>>>> ![](https://geps.dev/progress/0) Run 2: DecisionTreeClassifier - Different Predictors <br>
+>>>>>> ![](https://geps.dev/progress/0) Run 3: DecisionTreeClassifier - Different Numerical Transformations <br>
+>>>>>> ![](https://geps.dev/progress/0) Run ∞: Repeat Runs using other classifier models <br>
+
+
 ![Image Alt Text](10_images/cover.jpg)
 
 ## Model
@@ -49,8 +67,10 @@ If you have something to add or a new idea to implement, you are welcome to crea
 
 ## References
 - [Introduction to MLFlow](https://youtu.be/ksYIVDue8ak?si=WkzthJ9yQWPYZ8Nw)
-- [Setting Up MLLFlow Experiments to a Remote Server](https://youtu.be/K9se7KQON5k?si=rcnz5SCuzGG4KhX1)
+- [Setting Up MLFlow Experiments to a Remote Server](https://youtu.be/K9se7KQON5k?si=rcnz5SCuzGG4KhX1)
 - [Kaggle Notebook](https://www.kaggle.com/code/satyamsss/credit-card-default-prediction-82-accurate)
+- [MLFlow Reference Notebook 1](https://github.com/entbappy/MLflow-Basic-Demo/blob/main/example.py)
+- [MLFLow Reference Notebook 2](https://github.com/TripathiAshutosh/mlflow/blob/main/MLflow%20Live%20Demo.ipynb)
 
 
 ## Give it a Star
