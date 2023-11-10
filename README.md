@@ -1,8 +1,26 @@
 # Predicting Default Credit Card Clients
 
 ## Project Description
-> Predicting default credit card clients
+> Demonstrate how MLFlow works by using the Credit Card Default Dataset
 > 
+## Project Coverage
+
+PART 1
+> ![](https://geps.dev/progress/100) Setup MLFlow Experiment for Manual Tuning <br>
+> ![](https://geps.dev/progress/100) Create Runs for Manual Tuning Experiment (captures different parameters based on user input) <br>
+> ![](https://geps.dev/progress/100) Save experiments and runs on local server <br>
+![](10/images/mlflowui_manual_exp.png) <br>
+> ![](https://geps.dev/progress/100) Save experiments and runs on a remote server (DagsHub) <br>
+
+PART 2
+> ![](https://geps.dev/progress/100) Setup MLFlow Experiment for HyperParameter Tuning <br>
+> ![](https://geps.dev/progress/0) Create Runs for Hyperparameter Tuning Experiment <br>
+>>>>>> ![](https://geps.dev/progress/0) Run 1: DecisionTreeClassifier - Best Model <br>
+>>>>>> ![](https://geps.dev/progress/0) Run 2: DecisionTreeClassifier - Different Predictors <br>
+>>>>>> ![](https://geps.dev/progress/0) Run 3: DecisionTreeClassifier - Different Numerical Transformations <br>
+>>>>>> ![](https://geps.dev/progress/0) Run ∞: Repeat Runs using other classifier models <br>
+
+
 ![Image Alt Text](10_images/cover.jpg)
 
 ## Model
