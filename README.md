@@ -69,6 +69,8 @@ If you have something to add or a new idea to implement, you are welcome to crea
 - [Introduction to MLFlow](https://youtu.be/ksYIVDue8ak?si=WkzthJ9yQWPYZ8Nw)
 - [Setting Up MLFlow Experiments to a Remote Server](https://youtu.be/K9se7KQON5k?si=rcnz5SCuzGG4KhX1)
 - [Kaggle Notebook](https://www.kaggle.com/code/satyamsss/credit-card-default-prediction-82-accurate)
+- [MLFlow Reference Notebook 1](https://github.com/entbappy/MLflow-Basic-Demo/blob/main/example.py)
+- [MLFLow Reference Notebook 2](https://github.com/TripathiAshutosh/mlflow/blob/main/MLflow%20Live%20Demo.ipynb)
 
 
 ## Give it a Star
