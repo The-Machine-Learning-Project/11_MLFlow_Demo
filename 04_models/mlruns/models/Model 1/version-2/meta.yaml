@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1699603909838
+current_stage: None
+description: ''
+last_updated_timestamp: 1699603909838
+name: Model 1
+run_id: 135e4fd7d5144435812e9c13e943e1a3
+run_link: ''
+source: file:///c:/Users/GRACE ESTRADA/OneDrive/Desktop/ML Notebook Templates/x_MLFlow/02_Classification_Credit-Card-Default/03_notebooks/../04_models/mlruns/890392801274749997/135e4fd7d5144435812e9c13e943e1a3/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/GRACE ESTRADA/OneDrive/Desktop/ML Notebook Templates/x_MLFlow/02_Classification_Credit-Card-Default/03_notebooks/../04_models/mlruns/890392801274749997/135e4fd7d5144435812e9c13e943e1a3/artifacts/model
+user_id: null
+version: 2

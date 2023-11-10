@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/GRACE ESTRADA/OneDrive/Desktop/ML Notebook Templates/x_MLFlow/02_Classification_Credit-Card-Default/03_notebooks/../04_models/mlruns/890392801274749997/e5883891a2234c0083c417bf7a38758b/artifacts
+end_time: 1699603737012
+entry_point_name: ''
+experiment_id: '890392801274749997'
+lifecycle_stage: active
+run_id: e5883891a2234c0083c417bf7a38758b
+run_name: DTManualTunev4
+run_uuid: e5883891a2234c0083c417bf7a38758b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699603731995
+status: 4
+tags: []
+user_id: GRACE ESTRADA
