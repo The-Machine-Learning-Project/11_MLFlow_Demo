@@ -31,7 +31,7 @@ PART 2
 ## Installation
 Install all requirements by running the following command
 
-> pip install requirements.txt
+> pip install -r requirements.txt
 
 ## Project Configurations
 
